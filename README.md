@@ -20,3 +20,22 @@ GRC, and ethical hacking — from internship to Germany.
 
 ## Certifications Target
 - CompTIA Security+ — Month 6
+
+## 📅 Daily Log
+
+### Day 2 — 6th March 2026
+**TryHackMe:**
+- Network Fundamentals
+- HTTP in Detail (How The Web Works)
+
+**CompTIA Security+ 1.2 — Fundamentals of Security:**
+- CIA Triad (Confidentiality, Integrity, Availability)
+- Non-repudiation
+- Digital signatures
+- AAA Framework (Authentication, Authorization, Accounting)
+- Zero Trust model + Policy Enforcement Point
+- Gap Analysis
+- HTTP methods, cookies, request/response headers
+
+**Key Takeaway:** Zero Trust means trust nothing by default,
+verify everything — big concept in GRC.
