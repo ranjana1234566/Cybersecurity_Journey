@@ -39,3 +39,19 @@ GRC, and ethical hacking — from internship to Germany.
 
 **Key Takeaway:** Zero Trust means trust nothing by default,
 verify everything — big concept in GRC.
+
+### Day 3 — 8th March 2026
+**TryHackMe:**
+- DNS in Detail
+- How Websites Work
+- Put It All Together
+
+**CompTIA Security+ 1.3 — Change Management:**
+- Change management process
+- Dependencies
+- Technical change management
+- Part 2 — Change management deep dive
+
+**Key Takeaway:** Change management is core GRC —
+every system change in a company needs proper approval,
+documentation and testing before deployment.
