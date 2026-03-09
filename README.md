@@ -55,3 +55,19 @@ verify everything — big concept in GRC.
 **Key Takeaway:** Change management is core GRC —
 every system change in a company needs proper approval,
 documentation and testing before deployment.
+
+### Day 4 — 9th March 2026
+**CompTIA Security+ 1.4 — Cryptography & PKI:**
+- Encryption technologies
+- ESD part 2 & Key exchange
+- Hashing part 1 & Blockchain
+- Obfuscation
+- Digital certificates part 1 & 2
+- Digital certificate format
+- PKI (Public Key Infrastructure)
+- Encrypting stored data
+- Tokenization
+
+**Key Takeaway:** PKI and digital certificates are how
+the internet proves trust — every HTTPS website uses this.
+This is critical for GRC and compliance roles.
