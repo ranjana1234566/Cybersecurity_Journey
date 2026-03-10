@@ -71,3 +71,18 @@ documentation and testing before deployment.
 **Key Takeaway:** PKI and digital certificates are how
 the internet proves trust — every HTTPS website uses this.
 This is critical for GRC and compliance roles.
+
+### Day 5 — 10th March 2026
+**CompTIA Security+ 2.1 & 2.2 — Threat Actors & Vectors:**
+- Threat actors
+- Threat actors part 2
+- Threat vectors
+- Social engineering attacks
+- Phishing & impersonation part 1
+- Impersonation part 2 & watering hole attacks
+- Social media & brand impersonation
+
+**Key Takeaway:** Most cyberattacks start with human
+error — phishing and social engineering are #1 attack
+vectors. GRC analysts build policies specifically to
+defend against these.
