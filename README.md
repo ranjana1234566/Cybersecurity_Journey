@@ -86,3 +86,39 @@ This is critical for GRC and compliance roles.
 error — phishing and social engineering are #1 attack
 vectors. GRC analysts build policies specifically to
 defend against these.
+
+### Day 6 — 11th March 2026
+**CompTIA Security+ — Vulnerabilities:**
+- Malicious update & OS vulnerabilities
+- Memory injection & buffer overflows
+- Race conditions
+- Cloud & supply chain vulnerabilities
+- Misconfiguration vulnerabilities
+- Cross-site & hardware vulnerabilities
+- Virtualization vulnerabilities
+- Zero day attacks
+- Denial of services
+
+### Day 7 — 12th March 2026
+**CompTIA Security+ — Malware & Attacks:**
+- Overview of malware
+- Viruses and worms
+- Spyware and bloatware
+- Other types of malware & physical attacks
+- DNS attacks
+- Wireless attacks part 1 & 2
+
+### Day 8 — 13th March 2026
+**CompTIA Security+ — Application & Crypto Attacks:**
+- Application attacks part 2 & 3
+- Cryptographic attacks
+- Indicators of compromise
+- Malicious code part 2
+- On path attacks
+- Password attacks
+- Replay attacks part 2
+- SQL injection
+
+**Key Takeaway:** You now know how attackers think
+across every major attack category — this is the
+foundation of both pentesting AND GRC risk assessment.
