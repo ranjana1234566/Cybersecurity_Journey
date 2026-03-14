@@ -122,3 +122,22 @@ defend against these.
 **Key Takeaway:** You now know how attackers think
 across every major attack category — this is the
 foundation of both pentesting AND GRC risk assessment.
+
+### Day 9 — 14th March 2026
+**CompTIA Security+ — Infrastructure Security:**
+- Network infrastructure
+- Network infrastructure part 2
+- Segmenting the network
+- Cloud infrastructure
+- Cloud infrastructure part 2
+- Infrastructure considerations part 1, 2 & 3
+- Hardening techniques
+- Hardening techniques part 2
+- Mitigation techniques
+- Mitigation techniques part 2
+- Other infrastructure concepts part 1, 2 & 3
+- Matrix provided by cloud providers
+
+**Key Takeaway:** Network segmentation and cloud
+hardening are core skills for GRC — you're now covering
+exactly what security auditors assess in real companies.
