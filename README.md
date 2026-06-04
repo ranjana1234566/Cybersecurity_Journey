@@ -1,7 +1,7 @@
 # 🔐 Cybersecurity Journey
 
 **Started: 5th March 2026**
-**Goal: Information Systems Masters in Germany — January 2027**
+
 
 ## About
 This repo documents my daily learning journey in cybersecurity,
